@@ -202,14 +202,8 @@ cd Desktop/XAttacker-master/
 perl XAttacker.pl
 ```
 
-<a id="pro"></a>
-<h2>The Difference Between FREE And <a href="https://github.com/Moham3dRiahi/XAttacker/blob/master/Premium.md">PRO</a> Version</h2>
-<table>
-<thead>
-<tr>
-<th>Features</th>
-<th>FREE</th>
-<th>PRO</th>
-</tr>
-</thead>
-<tbody>
+join Telegram Group To get more private tools have a great day..!
+ 
+ https://t.me/Pentesterclubpvtltd
+ 
+ 
