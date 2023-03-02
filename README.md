@@ -7,7 +7,7 @@
 
 
 <hr><h2>📣 🔥 Finally My New Private Tool 🔥 📣</h2>
-<h2>🌟 <a href="https://github.com/Moham3dRiahi/XAttacker/blob/master/Premium.md">XAttacker v20 Tool Premium</a> 🌟</h2>
+<h2>🌟 <a href="https://github.com/alex14324/XAttacker/blob/master/Premium.md">XAttacker v20 Tool Premium</a> 🌟</h2>
 <hr>
 <h1>XAttacker V2.5 Tool FREE</h1>
 <p><img src="https://i.ibb.co/2nJvx4f/30-C0385-D-3-D52-4-C2-E-BEBC-60-F0-CB668-F24.png" width="620" height="380" /></p>
@@ -175,7 +175,7 @@
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/Moham3dRiahi/XAttacker.git
+git clone https://github.com/alex14324/XAttacker.git
 cd XAttacker
 perl XAttacker.pl
 ```
@@ -184,7 +184,7 @@ perl XAttacker.pl
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-git clone https://github.com/Moham3dRiahi/XAttacker.git
+git clone https://github.com/alex14324/XAttacker.git
 cd XAttacker
 chmod +x termux-install.sh
 bash termux-install.sh
