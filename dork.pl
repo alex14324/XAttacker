@@ -48,7 +48,7 @@ print q(
 print color('reset');
 print "                       ";
 print colored ("[ X Attacker v2.1 ]",'white on_red');  
-print colored ("[ Coded By Mohamed Riahi ]\n",'white on_red');
+print colored ("[ Coded By @alex14324 ]\n",'white on_red');
 print "                           ";
 print colored ("[ Start At $datetime ]",'white on_red'),"\n\n";
 
